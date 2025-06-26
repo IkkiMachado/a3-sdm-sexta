@@ -2,3 +2,5 @@
 /apps/clientes/migrations/*
 /apps/veiculos/__pycache__/*
 /apps/veiculos/migrations/*
+/apps/products/__pycache__/*
+/apps/products/migrations/*

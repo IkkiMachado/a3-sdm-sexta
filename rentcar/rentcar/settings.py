@@ -44,6 +44,7 @@ INSTALLED_APPS = [
     'rest_framework',
     'clientes.apps.ClientesConfig',
     'veiculos.apps.VeiculosConfig',
+    'categorias.apps.CategoriasConfig',
 ]
 
 MIDDLEWARE = [
