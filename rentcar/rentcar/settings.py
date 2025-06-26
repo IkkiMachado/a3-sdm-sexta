@@ -48,6 +48,7 @@ INSTALLED_APPS = [
     'reservas.apps.ReservaConfig',
     'acessorios.apps.AcessoriosConfig',
     'itemreserva.apps.ItemreservaConfig',
+    'pagamentos.apps.PagamentosConfig',
 ]
 
 MIDDLEWARE = [

@@ -10,3 +10,5 @@
 /apps/acessorios/migrations/*
 /apps/itemreserva/__pycache__/*
 /apps/itemreserva/migrations/*
+/apps/pagamentos/__pycache__/*
+/apps/pagamentos/migrations/*
