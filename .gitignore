@@ -8,3 +8,5 @@
 /apps/reservas/migrations/*
 /apps/acessorios/__pycache__/*
 /apps/acessorios/migrations/*
+/apps/itemreserva/__pycache__/*
+/apps/itemreserva/migrations/*
