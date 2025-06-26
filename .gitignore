@@ -6,3 +6,5 @@
 /apps/categorias/migrations/*
 /apps/reservas/__pycache__/*
 /apps/reservas/migrations/*
+/apps/acessorios/__pycache__/*
+/apps/acessorios/migrations/*
