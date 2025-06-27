@@ -4,3 +4,13 @@
 /apps/veiculos/migrations/*
 /apps/categorias/__pycache__/*
 /apps/categorias/migrations/*
+/apps/reservas/__pycache__/*
+/apps/reservas/migrations/*
+/apps/acessorios/__pycache__/*
+/apps/acessorios/migrations/*
+/apps/itemreserva/__pycache__/*
+/apps/itemreserva/migrations/*
+/apps/pagamentos/__pycache__/*
+/apps/pagamentos/migrations/*
+/apps/veiculoacessorio/__pycache__/*
+/apps/veiculoacessorio/migrations/*

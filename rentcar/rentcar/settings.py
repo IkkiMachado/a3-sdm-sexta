@@ -45,6 +45,11 @@ INSTALLED_APPS = [
     'clientes.apps.ClientesConfig',
     'veiculos.apps.VeiculosConfig',
     'categorias.apps.CategoriasConfig',
+    'reservas.apps.ReservaConfig',
+    'acessorios.apps.AcessoriosConfig',
+    'itemreserva.apps.ItemreservaConfig',
+    'pagamentos.apps.PagamentosConfig',
+    'veiculoacessorio.apps.VeiculoacessorioConfig'
 ]
 
 MIDDLEWARE = [

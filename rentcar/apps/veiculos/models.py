@@ -9,8 +9,9 @@ class Veiculo(models.Model):
     categoria = models.ForeignKey(Categoria, on_delete=models.PROTECT)
     
     class Meta:
-        verbose_name = 'Veiculo'
-        verbose_name_plural = 'Veiculos'
+        verbose_name = 'Veículo'
+        verbose_name_plural = 'Veículos'
+        ordering = ['placa'] 
     
     def __str__(self):
-        return self.name
+        return f"{self.placa} - {self.categoria.nome}"
