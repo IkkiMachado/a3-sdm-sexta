@@ -44,6 +44,13 @@ INSTALLED_APPS = [
     'rest_framework',
     'clientes.apps.ClientesConfig',
     'corsheaders',
+    'veiculos.apps.VeiculosConfig',
+    'categorias.apps.CategoriasConfig',
+    'reservas.apps.ReservaConfig',
+    'acessorios.apps.AcessoriosConfig',
+    'itemreserva.apps.ItemreservaConfig',
+    'pagamentos.apps.PagamentosConfig',
+    'veiculoacessorio.apps.VeiculoacessorioConfig'
 ]
 
 MIDDLEWARE = [
